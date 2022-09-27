@@ -18,6 +18,7 @@
 int main(int argc, char** argv) {
     
     printf("Hello World!!!!\n");
+    printf("I am alive!\n");
     
     return (EXIT_SUCCESS);
 }
